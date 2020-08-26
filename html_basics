@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+      <head> 
+          Basics of html :- html document starts with declaration of <!DOCTYPE html> , this is not a case sensitive,this helps browsers to display web pafes correctly.html document itself begins with <html> and ends with </html>.main content appears at <body> and </body>. moving further into the heading and paragraph of html , <h1> to </h1> and <p> to </p> . For html link <a> is used similarly for images (src) is source , (alt) for alternative text , example for images _ <img src "RDIP.jpg" alt="conduiraonline.com" width="101" height="156">
+	<head>
+</html>	
