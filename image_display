@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+        <body>
+<h2>Image</h2>
+<p>The image to the right:</p>
+<img src="logo.jpg" alt="logo" style="float:right;width:42px;height:42px;">
+        </body>
+</html>
